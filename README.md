@@ -7,6 +7,7 @@ Welcome to the Habitat GR11 Hackathon Repo!
 * Habitat Mainnet App: https://0xhabitat.org/app/#habitat-communities
 
 ### Contact
-* Feeling ready to work on our bounties, [join our Habitat Discord](https://discord.gg/dQqtWw56Hj) and introduce yourself in the `🏆-hackathon`channel.
+* Feeling ready to work on our bounties, [join our Habitat Discord](https://discord.gg/dQqtWw56Hj) and introduce yourself
+in the `#🏆-hackathon`channel.
 * If you need help or guidance, please contact the `Team` in Discord.
 
