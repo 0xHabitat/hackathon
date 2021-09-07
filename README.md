@@ -1,2 +1,4 @@
-# hackathon
-GR11
+# Grants Round 11 Hackathon
+https://gitcoin.co/hackathon/gr11
+
+
